@@ -1,0 +1,9 @@
+{
+    "C_Cpp.intelliSenseEngine": "default",
+    "idf.espIdfPathWin": "C:\\Users\\gluck\\esp\\v5.4\\esp-idf",
+    "idf.openOcdConfigs": [
+        "board/esp32c6-ftdi.cfg"
+    ],
+    "idf.portWin": "COM18",
+    "idf.toolsPathWin": "C:\\Users\\gluck\\.espressif"
+}
